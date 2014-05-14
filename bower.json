@@ -1,0 +1,16 @@
+{
+  "name": "AngularSubApp_amd",
+  "version": "0.0.0",
+  "homepage": "https://github.com/asilluron/ScalingDemoAngularSubApp_amd",
+  "authors": [
+    "Andrew Silluron"
+  ],
+  "main": ["dist/blog-content.js","dist/blog-content.min.js"],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "angular": "~1.2.16",
+    "angular-mocks": "~1.2.16"
+  }
+}

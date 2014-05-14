@@ -1,4 +1,2 @@
-ScalingDemoAngularSubApp_amd
-============================
-
-Demo App for Scaling Angular Series, AMD edition
+Scaling Angular Demo App - Sub App (Domain Logic) - AMD Version
+===============================

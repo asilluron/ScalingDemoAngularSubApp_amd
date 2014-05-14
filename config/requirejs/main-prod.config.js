@@ -1,0 +1,1 @@
+module.exports = {"baseUrl":"","deps":[],"paths":{"angular":"vendor/angular/angular","angular-mocks":"vendor/angular-mocks/angular-mocks"},"shim":""} ;
